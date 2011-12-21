@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Cliq2 2ndInit</string>
+
+    <string name="HelpInfo">此软件用于在cliq2上安装/卸载\'bootmenu/2ndInit\'程序。\n
+点击\'菜单\'键查看更多内容。
+    </string>
+
+    <string name="ChangeLogInfo">== First Version ==\n
+* Based on defy 2ndInit V1.9 * ==
+	</string>
+
+    <string name="AboutInfo">Cliq2 \'bootmenu\' Installer\n
+- 版本：1.0\n
+- 移植/修改：wanggjghost(泪の单翼天使)\n
+- 41245110@qq.com\n
+- wwww.591fan.com\n\n
+
+
+=== 免责申明 ===\n
+此为个人爱好作品，目的在于方便机油安装bootmenu/2nd-init。作者不承担任意的对于由使用此软件所引起的数据丢失/重启等问题之责任。\n\n
+
+
+=== 致谢 ===\n
+- ksubedi and \'ReverseAttack\' that made this possible.\n
+- The whole XDA community.\n
+- The whole 591fan community.\n
+- 原作者：Pedro Veloso : pedro.n.veloso@gmail.com</string>
+
+    <string name="InstructionsInfo">=== 如何安装 ====\n
+- 点击按钮安装2ndInit Recovery.\n
+- 程序会自动下载并安装2ndInit Recovery。当安装成功后右上角指示灯将会变为绿色。\n
+- 在设置里面关闭usb调试模式并重启手机，重启后将会自动进入bootmen菜单。\n
+- 请在bootmenu菜单里面设置默认的启动模式，如果不设置，每次开机都会先进入bootmenu。\n
+- 每次重启的时候，当看到蓝色指示灯闪烁的时候，立即按音量建下键就会进入bootmenu了。\n\n
+
+
+= 如何使用自定义下载地址 =\n
+- 如果要使用自定义的下载地址，则下载地址里面的文件必须按照默认下载地址提供的.tar.gz格式打包。\n\n\n
+    </string>
+
+    <string name="bootmenu_options_header">选择你要安装bootmenu的方式。注意：需要联网下载相关文件，请确保您的手机已经联网。</string>
+
+    <string name="bootmenu_own_url">使用自定义下载地址</string>
+
+    <string name="own_url_header">仅适用于有经验的用户。\n
+请输入你需要的下载地址：</string>
+
+    <string name="install_after_download">下载中... 下载结束后将会自动开始安装。</string>
+
+    <string name="ok">OK</string>
+
+    <string name="about">关于</string>
+    <string name="version">版本：</string>
+    <string name="changelog">更新日志</string>
+    <string name="instructions">说明</string>
+    <string name="FromDefaultURL">使用默认下载地址</string>
+    <string name="SndInitHadInstalled">当前已经安装2ndInit</string>
+    <string name="SndInitNotInstalled">当前还没有安装2ndInit</string>
+
+</resources>

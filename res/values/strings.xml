@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Cliq2 2ndInit</string>
+
+    <string name="HelpInfo">This is a free tool, used to install/uninstall the named \'BootMenu\' on Motorola Cliq2.\n
+Press the \'menu\' key on your phone for credits and more instructions.
+    </string>
+
+    <string name="ChangeLogInfo">== First Version ==\n
+* Based on defy 2ndInit V1.9 * 
+	</string>
+
+    <string name="AboutInfo">Cliq2 \'bootmenu\' Installer\n
+- Version 1.0\n
+- Ported by wanggjghost(泪の单翼天使)\n
+- 41245110@qq.com\n
+- wwww.591fan.com\n\n
+
+
+=== Warning ===\n
+I, the author, take no responsability for damaging phones, the user has full responsability. I am not responsible for any data loss and or bricked phones.I assume the user has read this \'README\' file and knows what he is doing.\n\n
+
+=== Credit ===\n
+- ksubedi and \'ReverseAttack\' that made this possible.\n
+- The whole XDA community.\n
+- The whole 591fan community.\n
+- Origin author Pedro Veloso : pedro.n.veloso@gmail.com\n
+	</string>
+
+    <string name="InstructionsInfo">===HOW TO INSTALL ====\n
+- Press the button to install the 2ndInit Recovery.\n
+- The bootmenu will be download and installed. After it succeeds the top led will be green.\n
+- Then disable USB debugging on Phone settings, and then reboot. You\'ll boot into bootmenu already.\n
+- You must choose your default boot option, or else you\'ll always boot to bootmenu first.\n
+- On each reboot when the led displays blue on startup press the key Volume Down to enter the BootMenu.\n
+
+
+= HOW TO USE CUSTOM URL =\n
+- You must provide a tar.gz file with similar structure of the ones I use. You can even provide the same bootmenus in different URLs, that is, mirror hosting. In case of doubt fell free to contact me.\n\n\n
+    </string>
+
+    <string name="bootmenu_options_header">Choose the version of Bootmenu you want to install. Please notice you require Internet connection for fetching the proper files.</string>
+
+    <string name="bootmenu_own_url">Use your own URL</string>
+
+    <string name="own_url_header">Only use this if you\'re an Advanced User.\n
+Type your own URL below:</string>
+
+    <string name="install_after_download">Downloading... Will install after download is finished.</string>
+
+    <string name="ok">OK</string>
+
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="changelog">Changelog</string>
+    <string name="instructions">Instructions</string>
+    <string name="FromDefaultURL">From default URL</string>
+    <string name="SndInitHadInstalled">2ndInit Recovery currently installed.</string>
+    <string name="SndInitNotInstalled">2ndInit Recovery NOT currently installed.</string>
+
+</resources>
