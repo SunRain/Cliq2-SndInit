@@ -15,7 +15,7 @@ public class DownloadHandler {
 
 	public Boolean getFileFromURL(String fileURL, String targetFielPath) {
 		try {
-			Utils.debugFunc("Will now download from URL: " + fileURL + "to: "
+			Utils.debugFunc("Will now download from URL: " + fileURL + " to: "
 					+ targetFielPath, Log.VERBOSE);
 
 			URL url = new URL(fileURL);// new URL(Constants.ROM_SERVER_URL+
